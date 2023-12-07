@@ -33,7 +33,7 @@ Ensure the NFS share is mounted on the Linux host. Add the following line to `/e
 
 Then, execute:
 
-    mkdir -p /mnt/nfs/pfsense-backup
+    mkdir -p /mnt/nfs/
     mount -a
 
 ### Step 2: Script Setup
