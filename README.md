@@ -1,6 +1,4 @@
 pfSense Configuration Backup Script
-
-pfSense Configuration Backup Script
 ===================================
 
 Overview
