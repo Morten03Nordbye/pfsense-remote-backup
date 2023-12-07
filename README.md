@@ -29,7 +29,7 @@ Installation
 
 Ensure the NFS share is mounted on the Linux host. Add the following line to `/etc/fstab`:
 
-10.0.0.2:/volume1/share /mnt/nfs/pfsense-backup nfs defaults 0 0
+10.0.0.2:/volume1/share /mnt/nfs nfs rw 0 0
 
 Then, execute:
 
