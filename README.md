@@ -33,7 +33,7 @@ Ensure the NFS share is mounted on the Linux host. Add the following line to `/e
 
 Then, execute:
 
-    mkdir -p /mnt/nfs/
+    mkdir -p /mnt/nfs
     mount -a
 
 ### Step 2: Script Setup
@@ -87,7 +87,5 @@ Contributing
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
-License
--------
 
 \[Specify License Here\]
